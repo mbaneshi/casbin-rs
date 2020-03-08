@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CachedEnforcer",""],["Enforcer","Enforcer is the main interface for authorization enforcement and policy management."],["FileAdapter",""]],"trait":[["InternalApi",""],["MgmtApi",""],["Model",""],["RbacApi",""]]});

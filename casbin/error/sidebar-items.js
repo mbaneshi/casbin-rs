@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","General casbin error"],["ModelError","ModelError represents any type of errors in model.conf"],["PolicyError","PolicyError represents any type of errors in policy"],["RbacError","RBAC error"]]});
